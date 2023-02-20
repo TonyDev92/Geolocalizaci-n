@@ -1,0 +1,17 @@
+#map{
+    height: 400px;
+    width: 600px;
+}
+h1{
+    background-color:cadetblue ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 150px;
+    font-size: x-large;
+    text-align: center;
+    text-transform: uppercase;
+    text-rendering:geometricPrecision;
+    text-overflow: ellipsis;
+    text-indent: 1lvi;
+    text-decoration-style: double;
+    text-shadow: 0px 0px 30px #0be733;
+}
